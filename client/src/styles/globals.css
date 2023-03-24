@@ -1,0 +1,9 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Defina as regras de estilo globais aqui */
+#qr-code-svg{
+
+  display: none;
+}
