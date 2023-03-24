@@ -20,7 +20,7 @@ Go to the project directory
 Install server and client dependencies
 
 ```bash
-  cd server && composer install
+  cd server && composer install && php artisan migrate
 ```
 ```bash
   cd ..
